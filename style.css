@@ -76,3 +76,59 @@ span{
      width: 100%;
      margin-top: 20px;
  }
+
+
+
+.paragraph{
+    width: 95%;
+    position: relative; left: 22px;
+    line-height: 25px;
+    color:#696363;
+    text-indent: 20px;
+}
+
+
+/* #form{
+    background-image: url(/images/list-bg.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    position: absolute;
+    background-position: center;
+} */
+
+/* .divparent{
+    background-image: url(/images/list-bg.png);
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+} */
+/* #list{
+    width: 100%;
+
+}
+.divparent{
+    position: relative;
+    display: inline-block;
+    
+} */
+
+/* .divchild{
+    position: absolute;
+    bottom: 10px;
+} */
+
+/* #list{
+    width: 100%;
+    
+} */
+
+
+#listsection{
+    background-image: url(/images/list-bg-png);
+}
+form{
+    
+   margin-right: 250px;
+   
+}
+
